@@ -1,5 +1,8 @@
 package br.com.yaw.eclipse.model;
 
+/**
+* Classe modificada pelo github.
+*/
 public class Projeto {
 
 	private String descricao;
