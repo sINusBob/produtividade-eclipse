@@ -1,5 +1,7 @@
 package br.com.yaw.eclipse.model;
-
+/**
+ * modificada dentro do github
+ * */
 public class NewClass01 {
 	public String lala;
 	
